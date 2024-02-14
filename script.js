@@ -17,7 +17,7 @@ const audioPause = new Audio ('/sons/pause.mp3')
 const audioTempoFinalizado = new Audio ('/sons/beep.mp3')
 
 
-let temporizadorEmSegundos = 1500
+let temporizadorEmSegundos = 10
 let intervaloId = null
 
 musica.loop = true
